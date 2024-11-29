@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kais Al Husrom</h1>
 <h3 align="center">A software engineer specialist in React & Laravel technologies</h3>
-<h4 align="center">[https://kaisalhusrom.com](My Portfolio)</h4>
+<p align="center">
+  <a href="https://kaisalhusrom.com" target="_blank">My Portfolio</a>
+</p>
 
 - 🔭 I’m currently working on **Self-Managed Website Builder**
 
