@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Large scale Laravel project**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/kais-al-husrom-943b48233/](https://www.linkedin.com/in/kais-al-husrom-943b48233/)
+- 👨‍💻 All of my projects are available at [Kais Al Husrom Projects](https://kaisalhusrom.com/en/list)
 
 - 💬 Ask me about **React, Laravel**
 
