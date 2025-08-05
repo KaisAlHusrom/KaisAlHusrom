@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **React, Laravel**
 
-- 📫 How to reach me **kais.al.husrom@gmail.com**
+- 📫 How to reach me **contact@kaisalhusrom.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
