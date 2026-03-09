@@ -1,27 +1,140 @@
 <h1 align="center">Hi 👋, I'm Kais Al Husrom</h1>
-<h3 align="center">A software engineer specialist in React & Laravel technologies</h3>
+<h3 align="center">Full-Stack Software Engineer | Laravel • NestJS • Next.js</h3>
+
 <p align="center">
-  <a href="https://kaisalhusrom.com" target="_blank">My Portfolio</a>
+  <a href="https://kaisalhusrom.com/en" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="https://github.com/KaisAlHusrom" target="_blank"><b>GitHub</b></a> •
+  <a href="https://www.linkedin.com/in/kais-al-husrom-943b48233/" target="_blank"><b>LinkedIn</b></a>
 </p>
 
-- 🔭 I’m currently working on **Self-Managed Website Builder**
+---
 
-- 🌱 I’m currently learning **Microservices**
+### 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on **Large scale Laravel project**
+Full-Stack Software Engineer with **3+ years of experience designing and building scalable web platforms and backend systems**.
 
-- 👨‍💻 All of my projects are available at [Kais Al Husrom Projects](https://kaisalhusrom.com/en/list)
+My primary expertise is in **Laravel backend development**, complemented by modern full-stack technologies including **NestJS, Next.js, and React**.
 
-- 💬 Ask me about **React, Laravel**
+I enjoy building **clean, maintainable architectures**, developing **high-performance APIs**, and turning complex business requirements into reliable production systems.
 
-- 📫 How to reach me **contact@kaisalhusrom.com**
+---
 
-<h3 align="left">Connect with me:</h3>
+### 🚀 Currently Working On
+
+- Building scalable backend systems using **Laravel & NestJS**
+- Developing **SaaS platforms and production APIs**
+- Improving **DevOps workflows with Docker and CI/CD**
+- Working on my **self-managed website builder project**
+
+---
+
+### 🧠 Technical Expertise
+
+**Backend**
+
+- Laravel
+- NestJS
+- PHP
+- Node.js
+- REST APIs
+- Authentication & RBAC
+- Payment Integrations
+
+**Frontend**
+
+- React
+- Next.js
+- Alpine.js
+- TailwindCSS
+- JavaScript / TypeScript
+
+**Databases**
+
+- MySQL
+- PostgreSQL
+- MongoDB
+
+**DevOps & Infrastructure**
+
+- Docker
+- Nginx
+- Linux
+- CI/CD (GitHub Actions)
+- Production Deployment
+
+**Architecture**
+
+- SaaS Platforms
+- Clean Architecture
+- MVC
+- Domain-Driven Design
+- Event Driven Architecture
+- Performance Optimization
+
+---
+
+### 🧩 Featured Projects
+
+🔹 **Bishola – Car Marketplace**  
+C2C marketplace built using **NestJS + Next.js** with advanced search and scalable architecture.  
+Deployment handled with **Docker, Nginx and CI/CD pipelines**.
+
+🔹 **CBOT – Healthcare Automation Platform**  
+Backend system managing **autonomous UVC disinfection robots** in hospital environments.
+
+🔹 **Misk Sens – SaaS Booking Platform**  
+Service marketplace platform with **multi-booking workflows and payment integration**.
+
+🔹 **Taj Al-Quran – Learning Management System**  
+Large-scale LMS platform built with Laravel including **courses, evaluations, and payments**.
+
+---
+
+### 🌐 My Projects
+
+You can explore my projects here:
+
+👉 https://kaisalhusrom.com/en/list
+
+---
+
+### 📫 Contact Me
+
+- Email: **contact@kaisalhusrom.com**
+- Website: **https://kaisalhusrom.com**
+- LinkedIn: **https://linkedin.com/in/kais-al-husrom-943b48233**
+
+---
+
+### 🛠 Languages & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/kais al husrom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kais al husrom" height="30" width="40" /></a>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaisalhusrom&show_icons=true&locale=en&layout=compact" alt="kaisalhusrom" /></p>
+### 📊 GitHub Stats
+
+<!-- <p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KaisAlHusrom&show_icons=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KaisAlHusrom&layout=compact"/>
+</p> -->
+
+---
+
+⭐️ From [KaisAlHusrom](https://github.com/KaisAlHusrom)
