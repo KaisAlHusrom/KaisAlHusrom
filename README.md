@@ -14,6 +14,37 @@
 
 ---
 
+<h2 align="center">🚗 Bishola (بسهولة): Live in Production</h2>
+
+<p align="center">
+  <b>Syria's car marketplace to buy, sell, and rent cars, live on the web, iOS, and Android.</b><br/>
+  I'm the <b>sole developer</b>, fully responsible for the product end to end: backend, web app, mobile apps, and production infrastructure.
+</p>
+
+<p align="center">
+  <a href="https://apps.apple.com/sa/app/bishola/id6751427088"><img src="https://img.shields.io/badge/Download_on_the-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store"/></a>
+  <a href="https://play.google.com/store/apps/details?id=com.bishola.app&hl=en"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"/></a>
+  <a href="https://bishola.com"><img src="https://img.shields.io/badge/Visit-bishola.com-3B8613?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit bishola.com"/></a>
+</p>
+
+| Layer | What I built |
+|---|---|
+| ⚙️ **Backend** | NestJS API powering web and mobile: listings, advanced search & filtering, authentication (including Google & Apple sign-in), and push notifications |
+| 🌐 **Web** | Next.js marketplace at [bishola.com](https://bishola.com) with full Arabic/English support |
+| 📱 **Mobile** | React Native app for iOS & Android, rebuilt from scratch to replace the old Expo app, with a polished RTL Arabic/English experience |
+| 🚀 **Infrastructure** | Docker, Nginx, shell scripts, and GitHub Actions CI/CD; I own deployments and the production environment |
+
+**Product highlights**
+
+- 🔎 Smart search & filters, an interactive map view, and Arabic-aware search that matches different spellings of the same word
+- 🤖 **Nibras**, an AI assistant that helps users find the right car and answers their questions
+- 📝 Listing creation from photos, voice, or manual entry
+- 💳 Installment plans with down payment and monthly amounts
+- 🔔 Saved-search alerts and push notifications with deep links and quick actions
+- 🏪 Seller and dealership profiles with listing management and performance tracking
+
+---
+
 ### 👨‍💻 About Me
 
 Full-Stack Software Engineer with **3+ years of experience** building and maintaining production web and mobile applications across **SaaS, healthcare, compliance, and marketplace** domains.
@@ -21,7 +52,7 @@ Full-Stack Software Engineer with **3+ years of experience** building and mainta
 My core stack is **Laravel, NestJS, React, and Next.js**, backed by hands-on experience with **React Native**, **Odoo**, and production infrastructure. I enjoy turning complex business requirements into clean, maintainable systems and owning products across their full lifecycle, from the first schema to the production server.
 
 - 🔧 **Backend-first:** high-performance REST APIs, authentication & RBAC, payment integrations
-- 📱 **Mobile:** built and shipped a bilingual (AR/EN) React Native app to the **App Store** and **Google Play**
+- 📱 **Mobile:** built and shipped Bishola's bilingual (AR/EN) React Native app to the **App Store** and **Google Play**
 - 🏢 **Enterprise:** Odoo ERP development and integration with React frontends
 - 🚀 **DevOps:** Docker, Nginx, Linux, and GitHub Actions CI/CD for production deployments
 
@@ -29,6 +60,7 @@ My core stack is **Laravel, NestJS, React, and Next.js**, backed by hands-on exp
 
 ### 🚀 Currently
 
+- 📱 Running **Bishola** in production as its sole developer, shipping regular updates across web, iOS, and Android
 - 🕋 Building compliance and facility-management platforms at **Zimam Company** (Laravel, Odoo, React, Vue.js)
 - ⚙️ Improving DevOps workflows with **Docker and CI/CD**
 - 🧱 Working on my **self-managed website builder** project
@@ -57,14 +89,7 @@ My core stack is **Laravel, NestJS, React, and Next.js**, backed by hands-on exp
 
 ---
 
-### 🧩 Featured Projects
-
-🚗 **[Bishola](https://bishola.com): C2C Car Marketplace (Web · iOS · Android)**  
-`NestJS` `Next.js` `React Native` `Docker` `Nginx` `GitHub Actions`
-
-- Scalable car marketplace with advanced search, filtering, and authentication.
-- Built the mobile app **from scratch in React Native**, replacing the old Expo app, with full Arabic/English support, and **released it on the App Store and Google Play**.
-- Fully responsible for deployment and production setup: Docker, Nginx, shell scripts, and GitHub Actions CI/CD pipelines.
+### 🧩 More Projects
 
 🏥 **CBOT: Autonomous UVC Disinfection Platform (Healthcare)**
 
@@ -104,6 +129,12 @@ My core stack is **Laravel, NestJS, React, and Next.js**, backed by hands-on exp
 | **DevOps** | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> |
 
 **Architecture:** SaaS Design · Clean Architecture · MVC · Domain-Driven Design · Event-Driven Architecture · RBAC · Performance Optimization
+
+---
+
+### 🌍 Languages
+
+**Arabic** (Native) · **English** (Full Professional) · **Turkish** (Professional Working, C1)
 
 ---
 
