@@ -109,7 +109,7 @@ My core stack is **Laravel, NestJS, React, and Next.js**, backed by hands-on exp
 
 ### 🎓 Education & Languages
 
-🎓 **B.Sc. Software Engineering**, Kırklareli University, Türkiye (2019 – 2025)
+🎓 **B.Sc. Software Engineering**, Kırklareli University, Türkiye (2020 – 2025)
 
 🌍 **Arabic** (Native) · **English** (Full Professional) · **Turkish** (Professional Working, C1)
 
